@@ -1,1 +1,1 @@
-# token
+# OCTCoin token
